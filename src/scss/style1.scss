@@ -4,16 +4,17 @@
     box-sizing: border-box;
 }
 $font-header:30px;
-
-h2 {
+.h1 {
+    font-size: 35px;  
+    padding-top: 2rem;
+}
+.h2 {
 
 font-size: 30px;
 
 
 }
-.col-12 {
-    font-size: 35px;
-}
+
 section {  
 align-content: center;  
   width: 100vw;
